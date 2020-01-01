@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/tonthanhhung.github.io",
   siteMetadata: {
     // edit below
     title: `Gatsby Starter Personal Blog`,
