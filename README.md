@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<p align="center">
+  <a href="https://www.gatsbyjs.org">
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Gatsby's personal blog starter
+</h1>
 
-You can use the [editor on GitHub](https://github.com/tonthanhhung/hungton.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img alt="screesnhot" src="./screenshot.png">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This starter is a fork of Gatsby Starter Blog, the most popular starter by far – with second place being Gatsby Starter Netlify CMS. So I decided to combine the 2!
 
-### Markdown
+## 🚀 Quick start
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.  **Create a Gatsby site.**
 
-```markdown
-Syntax highlighted code block
+    Use the Gatsby CLI to create a new site, specifying the blog starter.
 
-# Header 1
-## Header 2
-### Header 3
+    ```sh
+    # create a new Gatsby site using the blog starter
+    gatsby new my-blog-starter https://github.com/thomaswang/gatsby-personal-starter-blog
+    ```
 
-- Bulleted
-- List
+1.  **Start developing.**
 
-1. Numbered
-2. List
+    Navigate into your new site’s directory and start it up.
 
-**Bold** and _Italic_ and `Code` text
+    ```sh
+    cd my-blog-starter/
+    gatsby develop
+    ```
 
-[Link](url) and ![Image](src)
-```
+1.  **Open the source code and start editing!**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    Your site is now running at `http://localhost:8000`!
 
-### Jekyll Themes
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tonthanhhung/hungton.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-### Support or Contact
+## 🎓 Learning Gatsby
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
+
+- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+
+- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+
+## 📔 Learning Netlify CMS with Gatsby
+
+Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/#authenticating-with-github) in the Gatsby documentation to finish the set up for your personal Netlify CMS with authentication.
+
+## 💫 Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)
+
+<!-- AUTO-GENERATED-CONTENT:END -->
