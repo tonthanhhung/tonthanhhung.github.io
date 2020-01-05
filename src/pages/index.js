@@ -56,7 +56,7 @@ const IndexPage = props => {
           </a>
           <a
             target="_blank"
-            href="https://www.linkedin.com/in/hungton/"
+            href="https://www.linkedin.com/in/hungton/?locale=en_US"
             className="no-underline shadow-none cursor-pointer"
           >
             <FaLinkedin className="text-4xl" />
