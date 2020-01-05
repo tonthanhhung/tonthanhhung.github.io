@@ -9,7 +9,7 @@ To run locally, yarn, then yarn dev, then open https://localhost:8000.
 - [ ] Write 1st blog
 - [ ] Comment using github issues
 - [ ] Note pages
-- [ ] favicon
+- [x] favicon
 - [ ] GA
 
 ### ref

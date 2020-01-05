@@ -47,16 +47,32 @@ const IndexPage = props => {
           <p>Unskilled designer</p>
         </div>
         <div className="flex mb-4">
-          <a href="#" className="no-underline shadow-none cursor-pointer">
+          <a
+            target="_blank"
+            href="https://github.com/tonthanhhung"
+            className="no-underline shadow-none cursor-pointer"
+          >
             <FaGithubSquare className="text-4xl" />
           </a>
-          <a href="#" className="no-underline shadow-none cursor-pointer">
+          <a
+            target="_blank"
+            href="https://www.linkedin.com/in/hungton/"
+            className="no-underline shadow-none cursor-pointer"
+          >
             <FaLinkedin className="text-4xl" />
           </a>
-          <a href="#" className="no-underline shadow-none cursor-pointer">
+          <a
+            target="_blank"
+            href="https://twitter.com/tonthanhhung"
+            className="no-underline shadow-none cursor-pointer"
+          >
             <FaTwitterSquare className="text-4xl" />
           </a>
-          <a href="#" className="no-underline shadow-none cursor-pointer">
+          <a
+            target="_blank"
+            href="mailto:tonthanhhung90@gmail.com"
+            className="no-underline shadow-none cursor-pointer"
+          >
             <FaEnvelopeSquare className="text-4xl" />
           </a>
         </div>
