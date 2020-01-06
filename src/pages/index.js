@@ -20,7 +20,7 @@ const IndexPage = props => {
   return (
     <div className="h-screen flex flex-col sm:flex-row">
       <SEO
-        title="Hùng's Blog"
+        title="Hung's Blog"
         keywords={[`blog`, `gatsby`, `javascript`, `react`, "tonthanhhung"]}
       />
       <div className="flex flex-col h-screen w-full sm:w-72 md:w-80 p-8 border-r border-gray-400 bg-gray-200 pt-20">
@@ -56,7 +56,7 @@ const IndexPage = props => {
           </a>
           <a
             target="_blank"
-            href="https://www.linkedin.com/in/hungton/?locale=en_US"
+            href="https://www.linkedin.com/in/hungton"
             className="no-underline shadow-none cursor-pointer"
           >
             <FaLinkedin className="text-4xl" />
